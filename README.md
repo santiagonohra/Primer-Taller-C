@@ -134,9 +134,15 @@ Por último, el archivo **primer_taller_lib.h** es el archivo header del proyect
 
 # Compilación y Ejecución del Proyecto
 
-Para compilar y posteriormente ejecutar el proyecto, es indispensable tener un compilador de c, se recomienda por defecto el **gcc 11.2.0**, ya que fue el usado y establecido por el autor del proyecto. Una vez se cumpla con el requisito previo, se procede a hacer uso del **Makefile** incluido en el proyecto con la siguiente linea de codigo: ***make primer_taller_main***, inherentemente, se debe estar situado en la carpeta del proyecto con los ficheros encontrados en el repositorio para poder hacer el fichero usando el Makefile exitosamente. Una vez se compile el proyecto, se generará un archivo ejecutable **primer_taller_main** el cual se puede ejecutar con el comando **./primer_taller_main**.
+Para compilar y posteriormente ejecutar el proyecto, es indispensable tener un compilador de c, se recomienda por defecto el **gcc 11.2.0**, ya que fue el usado y establecido por el autor del proyecto. Una vez se cumpla con el requisito previo, se procede a hacer uso del **Makefile** incluido en el proyecto con la siguiente linea de codigo: ***make primer_taller_main***, inherentemente, se debe estar situado en la carpeta del proyecto con los ficheros encontrados en el repositorio para poder hacer el fichero usando el Makefile exitosamente. Una vez se compile el proyecto, se generará un archivo ejecutable **primer_taller_main** el cual se puede ejecutar con el comando **./primer_taller_main**. Por ultimo, se puede ejecutar el comando **make clean** para eliminar los archivos **.o** resultantes.
 
-# Ejemplos de Eso
+# Ejemplos de Uso
+### Caso de Uso 1
+Se ejecuta el make command al fichero primer_taller_main y se ejecuta el ejecutable resultante, se demuestra la solución al punto 6.
+
 ![Imagen Caso de Uso 1](https://github.com/santiagonohra/Primer-Taller-C/blob/dcf779ebaee79053fe659a69bd19f0fd63e278bb/Screenshot%20from%202022-08-02%2021-12-13.png)
+
+### Caso de Uso 2
+Se demuestra la solución a los puntos 2 y 4.
 
 ![Imagen Caso de Uso 2](https://github.com/santiagonohra/Primer-Taller-C/blob/dcf779ebaee79053fe659a69bd19f0fd63e278bb/Screenshot%20from%202022-08-02%2021-13-34.png)
