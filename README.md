@@ -130,7 +130,10 @@ Para dar solución al taller se hizo uso de archivos main, lib y header para eje
 
 El archivo **primer_taller_lib.c** contiene todas las funciones mencionadas en el párrafo anterior, como las funciones contenedoras de las soluciones a los puntos (**punto1(), punto2(), .. , punto10()**) aisladas las unas de las otras, las funciones de control y seleccion de entrada del usuario y demás.
 
-Por último, el archivo **primer_taller_lib.h** es el archivo header del proyecto, el cual define las funciones propias que fueron creadas a fin de dar solución a los múltiples problemas planteados.
+Por otra parte, el archivo **primer_taller_lib.h** es el archivo header del proyecto, el cual define las funciones propias que fueron creadas a fin de dar solución a los múltiples problemas planteados.
+
+Por último, en la carpeta **/source/** se encuentra el archivo **primer_taller.c** el cual contiene la solución al taller pero en un solo archivo, sin uso de archivos de lib, main y header. A partir de este inicial, se deriv
+
 
 # Compilación y Ejecución del Proyecto
 
