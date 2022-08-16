@@ -132,7 +132,7 @@ El archivo **primer_taller_lib.c** contiene todas las funciones mencionadas en e
 
 Por otra parte, el archivo **primer_taller_lib.h** es el archivo header del proyecto, el cual define las funciones propias que fueron creadas a fin de dar solución a los múltiples problemas planteados.
 
-Por último, en la carpeta **/source/** se encuentra el archivo **primer_taller.c** el cual contiene la solución al taller pero en un solo archivo, sin uso de archivos de lib, main y header. A partir de este inicial, se deriv
+Por último, en la carpeta **/source/** se encuentra el archivo **primer_taller.c** el cual contiene la solución al taller pero en un solo archivo, sin uso de archivos de lib, main y header. A partir de este inicial, se derivan los 3 archivos principales, siendo estos primer_taller_main.c, primer_taller_lib.c y primer_taller_lib.h, los cuales tienen el método main, los métodos adicionales y la declaración de los métodos respectivamente.
 
 
 # Compilación y Ejecución del Proyecto
